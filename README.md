@@ -39,11 +39,9 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
-
-## Output:
+<img width="1596" height="867" alt="Screenshot 2026-03-20 133058" src="https://github.com/user-attachments/assets/9254e66c-9fa4-49c9-bfe9-05e7ca2c16d5" />
+<img width="1520" height="875" alt="Screenshot 2026-03-20 133121" src="https://github.com/user-attachments/assets/eaa3fb37-21c0-48e7-8aa5-7ed84c01fb20" />
+<img width="1642" height="861" alt="Screenshot 2026-03-20 133134" src="https://github.com/user-attachments/assets/e9b0b9a6-1369-4493-b97c-c6d2eb7d0cdf" />
 ![output](EXP-6.1.png)
 
 ### Name:LAVANYA R
